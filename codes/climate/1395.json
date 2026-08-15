@@ -1,6 +1,6 @@
 {
   "manufacturer": "Midea",
-  "supportedModels": ["RG57A6/BGEF (Remote)"],
+  "supportedModels": ["RG57A6/BGEF (Remote)", "MSAB-07HRN8-C (RG10B(B)/BGEF remote)"],
   "supportedController": "Broadlink",
   "commandsEncoding": "Base64",
   "temperatureUnit": "C",
